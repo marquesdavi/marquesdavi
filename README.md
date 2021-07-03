@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @MateusDantas2
-- 👀 I’m interested in  compartilhar os meus projetos e conhecimentos.
-- 🌱 I’m currently  trabalhando como professor de programação e desenvolvedor júnior  da empresa Accenture.
-- 💞️ I’m looking to collaborate repassando o meu conhecimento e me especializando a cada dia.
-- 📫 Você pode me encontrar  pelo LinkedIn pelo link: www.linkedin.com/in/mateus-dantas-marques
+<div>
+  <a href="https://github.com/MateusDantas2">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MateusDantas2&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDantas2&&layout=compact&hide=shell&theme=jolly"/>
 
-
-<!---
-MateusDantas2/MateusDantas2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+  <img align="center" width="148" height="180" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif">
+</div>
+ <br>
 <div> 
   <a href="https://instagram.com/mateusdantas_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusdantas.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

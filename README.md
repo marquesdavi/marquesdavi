@@ -3,7 +3,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MateusDantas2&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDantas2&&layout=compact&hide=shell&theme=jolly"/>
 
-  <img align="center" width="148" height="180" src="https://lh3.google.com/pw/AM-JKLVqEQJ8quG6_ZQ4jT9pF4q7nbuQp_1xmKVCTt4dnqfctYlW3qFdXD1P3FVSZcXAQzVEKE1gxTcSVbobiP8KSC0lZVKEsw=s260-no?authuser=0">
+  <img align="center" width="148" height="180" src="https://www.animeunited.com.br/oomtumtu/2019/11/4.jpg">
 </div>
  <br>
 <div> 
